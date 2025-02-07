@@ -1,7 +1,7 @@
 # Qwen2.5-Attention-Visualize
 A simple PyTorch script to visualize the layerwise attention scores of Qwen2.5 model. Here the Qwen2.5 1B model is chosen for answering trivia questions.
 
-=====================================================================================
+========================================
 
 + **Step 1:** Query the Qwen 2.5 model with the prompt "Who is the president of X?"
 
@@ -20,6 +20,6 @@ A simple PyTorch script to visualize the layerwise attention scores of Qwen2.5 m
   
 + **Step 3:** Visualuize the attention scores using matplotlib abd seaborn
 
-=====================================================================================
+========================================
 
 ![visualize](https://github.com/NMS05/Qwen2.5-Attention-Visualize/blob/main/Probing%20into%20the%20attention%20patterns.png)
