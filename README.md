@@ -13,12 +13,12 @@ A simple PyTorch script to visualize the layerwise attention scores of Qwen2.5 m
   + **Example 2**
     + Query: Who is the president of Rwanda?
     + Qwen response: Ernest Ndayisaba
-    + Remarks: incorrect (Hallucination). Its Paul Kagame (president of Rwanda since the yesr 2000)
+    + Remarks: incorrect (Hallucination). Its Paul Kagame (president of Rwanda since the year 2000)
     + Interestingly 'Ndayisaba' is a popular surname in Rwanda/Burundi
  
 + **Step 2:** Copy/Pase the answer keywords within the response.
   
-+ **Step 3:** Visualuize the attention scores using matplotlib abd seaborn
++ **Step 3:** Visualize the attention scores using matplotlib and seaborn
 
 ========================================
 
